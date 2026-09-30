@@ -1,0 +1,3 @@
+﻿  ps.c
+D:\PS\Project1\Project1\ps.c(2,9): warning C4068: unknown pragma 'codepage'
+  Project1.vcxproj -> D:\PS\Project1\x64\Debug\Project1.exe
